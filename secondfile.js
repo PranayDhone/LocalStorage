@@ -1,1 +1,1 @@
-console.log('second file')
+console.log('hey i dont love git anymore')
